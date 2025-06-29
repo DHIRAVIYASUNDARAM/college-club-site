@@ -1,48 +1,56 @@
-# College Club Website – RISE Internship Project
+# 💻 College Club Website
 
-## 🙋🏻‍♂️ Name: DHIRAVIYA S  
-## 🏫 College: SAVEETHA ENGINEERING COLLEGE  
-## 📅 Internship Duration: June 2025 – July 2025  
+A fully responsive and modern website built for a college club, designed using **HTML5**, **CSS3**, and **Bootstrap 5**. The site serves as a central hub for showcasing club events, announcements, and contact information.
 
----
-
-## 🌐 Live Website:
-👉 [College Club Website](https://dhiraviyasundaram.github.io/college-club-site)
-
-## 💻 Source Code:
-👉 [GitHub Repository](https://github.com/DHIRAVIYASUNDARAM/college-club-site)
+🌐 **Live Demo**: [Visit Website](https://dhiraviyasundaram.github.io/college-club-site/)  
+📁 **Source Code**: [GitHub Repo](https://github.com/DHIRAVIYASUNDARAM/college-club-site)
 
 ---
 
-## 📌 Project Overview:
-This project is a static college club website designed to display upcoming events, contact info, and general club announcements. It helps students stay informed and engaged with club activities.
+## 🧠 Project Overview
+
+This project is a front-end website tailored for a college or university club. It offers an elegant UI with essential features to display:
+- Club mission or introduction
+- Upcoming events and activities
+- Contact details and social media
+- Navigation and footer links
+
+The website is static and responsive, making it accessible across all device sizes. The use of Bootstrap 5 allows quick layout building and component styling without heavy CSS coding.
 
 ---
 
-## 🧰 Tech Stack:
-- HTML5
-- CSS3
-- Bootstrap 5
-- GitHub Pages (for hosting)
+## 🛠️ Technologies Used
+
+| Technology     | Purpose                            |
+|----------------|------------------------------------|
+| **HTML5**      | Markup structure                   |
+| **CSS3**       | Custom styling and layout          |
+| **Bootstrap 5**| Responsive grid, navbar, buttons   |
+| **GitHub Pages**| Hosting the live project          |
 
 ---
 
-## 🖼️ Features:
-- Responsive design across devices
-- Clear navigation bar and sections
-- Upcoming events page
-- Contact details and social links
-- Clean, minimalistic UI
+## 📌 Key Features
+
+- ✅ **Responsive Design** using Bootstrap grid system  
+- ✅ **Navbar** with links to site sections  
+- ✅ **Events Page** to list upcoming and past events  
+- ✅ **Contact Section** for student reach-out and club emails  
+- ✅ **Consistent Theming** with reusable styling  
+- ✅ **Deployed on GitHub Pages** for global access
 
 ---
 
-## 🎥 Included:
-- Source Code (in GitHub)
-- Screenshots (UI views)
-- This README file
+## 🖼️ Screenshots
+
+| Page         | Preview Description |
+|--------------|---------------------|
+| **Home Page** | Overview and welcome message |
+| **Events Page** | Event cards with titles and dates |
+| **Responsive Layout** | Works seamlessly on mobile, tablet, desktop |
+| **Footer** | Contact and copyright |
+
+*(See `screenshots/` folder for full visuals)*
 
 ---
 
-## 📬 Contact:
-- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/dhiraviya-sundaram/)) 
-- [Email:dhiraviyasundaram@gmail.com]
