@@ -53,4 +53,12 @@ The website is static and responsive, making it accessible across all device siz
 *(See `screenshots/` folder for full visuals)*
 
 ---
+---
 
+## 🎥 Demo Video
+
+▶️ **Watch the Screen Recording Demo of the College Club Website**
+
+[![Watch Video](https://img.shields.io/badge/Click%20to%20Watch-Demo%20Video-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1h1Kk7vAU1hyFMyWlbMmDTPUodqdwL3CG/view?usp=sharing)
+
+---
